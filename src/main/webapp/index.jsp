@@ -12,4 +12,5 @@
 		<%= request.getRemoteAddr()  %></p>
 	<p>  Welcome to the DevOps world! - TEstingiewiwe
 		</p>
+	<p>Testing</p>
 </body>
